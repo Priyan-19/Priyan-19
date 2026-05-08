@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?&size=36&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Priyan;Aspiring+Developer" />
+  Hi👋 I'm Priyan
 </h1>
 
 
