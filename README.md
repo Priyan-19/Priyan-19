@@ -81,7 +81,7 @@ student = {
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)]()
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)]()
-[![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)]()
+[![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kali-linux&logoColor=white)]()
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)]()
 [![Versel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)]()
 [![SupaBase](https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=white)]()
