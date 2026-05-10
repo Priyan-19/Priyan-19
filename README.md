@@ -13,7 +13,6 @@
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyan190406@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyan-19)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Priyan-19&style=flat-square&color=6E40C9)
 
 </div>
@@ -43,7 +42,7 @@ student = {
 
 
 
-<img align ="right" height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<img align ="right" height="160" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 <div align="left">
 <ul>
