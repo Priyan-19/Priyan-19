@@ -52,7 +52,7 @@ student = {
 <li>🎯 Goal: Land a solid internship and contribute to open-source projects</li>
 </ul>
 </div>
-
+<br>
 
 
 ---
