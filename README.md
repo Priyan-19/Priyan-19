@@ -43,6 +43,7 @@ student = {
 
 
 
+<img align ="right" height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 <div align="left">
 <ul>
@@ -52,10 +53,6 @@ student = {
 <li>🎯 Goal: Land a solid internship and contribute to open-source projects</li>
 </ul>
 </div>
-
-
-<img align ="right" height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
-
 
 ---
 
