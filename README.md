@@ -42,7 +42,7 @@ student = {
 
 
 
-<img align ="right" height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<img align ="right" height="140" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 <div align="left">
 <ul>
