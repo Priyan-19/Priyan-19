@@ -104,7 +104,7 @@ student = {
 ## 📊 LeetCode Stats
 <div align="center">
 
-<a href="https://leetcode.com/u/Priyan19"><img  src="https://leetcard.jacoblin.cool/priyan19?theme=dark&hide_border=true&font=Coda%20Caption&ext=heatmap"   ></a>
+<a href="https://leetcode.com/u/Priyan-19"><img  src="https://leetcard.jacoblin.cool/Priyan-19?theme=dark&font=Coda%20Caption&ext=heatmap"   ></a>
 
 </div>
 
