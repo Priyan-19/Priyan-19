@@ -112,18 +112,15 @@ student = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Priyan's 3D Contribution Graph" />
-</div>
-
-<br>
 
 <div align="center">
-
-<a href="https://github.com/Priyan-19"><img src="https://gh-readme-profile.vercel.app/api?username=Priyan-19&theme=dark&hide=prs%2Cprs_merged&photo_resize=150&hide_border=true" height="150"></a>
-<a href="https://github.com/Priyan-19"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Priyan-19&layout=compact&theme=dark&hide_border=true" height="150"></a>
-<a href="https://github.com/Priyan-19"><img src="https://streak-stats.demolab.com?user=Priyan-19&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" height="150"></a>
+<a href="https://github.com/Priyan-19"><img src="./profile-3d-contrib/profile-night-green.svg" alt="Priyan's 3D Contribution Graph" height="350"></a>
+<br><br>
+<a href="https://github.com/Priyan-19"><img src="https://gh-readme-profile.vercel.app/api?username=Priyan-19&theme=dark&hide=prs%2Cprs_merged&photo_resize=150&hide_border=true" height="125"></a>
+<a href="https://github.com/Priyan-19"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Priyan-19&layout=compact&theme=dark&hide_border=true" height="125"></a>
 <br>
+<a href="https://github.com/Priyan-19"><img src="https://streak-stats.demolab.com?user=Priyan-19&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" height="125"></a>
+<br><br>
 <a href="https://github.com/Priyan-19"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyan-19&bg_color=000000&color=ffffff&line=0ed600&point=ffffff&area=true&hide_border=true" height="250" ></a>
 
 </div>
