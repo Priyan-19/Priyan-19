@@ -113,6 +113,12 @@ student = {
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Priyan's 3D Contribution Graph" />
+</div>
+
+<br>
+
+<div align="center">
 
 <a href="https://github.com/Priyan-19"><img src="https://gh-readme-profile.vercel.app/api?username=Priyan-19&theme=dark&hide=prs%2Cprs_merged&photo_resize=150&hide_border=true" height="150"></a>
 <a href="https://github.com/Priyan-19"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Priyan-19&layout=compact&theme=dark&hide_border=true" height="150"></a>
