@@ -30,7 +30,7 @@
 student = {
     "name":     "Priyan",
     "degree":   "B.Tech-Computer Science and Business Systems",
-    "year":     "3rd Year (2023–2027)",
+    "year":     "Final Year (2023–2027)",
     "status":   "Open to internships & collaborations",
     "motto":    "Learn → Build → Break → Repeat 🔁"
 }
