@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# pyrefly: ignore  # SVG XML inside f-strings causes false-positive lint errors
 # ⒸAngelaMos | 2025 | CertGames.com
 
 import sys
@@ -90,9 +91,9 @@ def generate_svg(loc_data):
     </linearGradient>
   </defs>
 
-  <rect width="{svg_width}" height="{svg_height}" fill="#000000" rx="10"/>
+  <rect width="{svg_width}" height="{svg_height}" fill="#000000" rx="4"/>
 
-  <rect x="10" y="10" width="{svg_width - 20}" height="3" fill="url(#accent-gradient)" rx="1.5"/>
+  <rect x="10" y="10" width="{svg_width - 20}" height="3" fill="url(#accent-gradient)" rx="1"/>
 
   <text x="40" y="52" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="28" font-weight="700" fill="#ffffff">
     {format_number(total_code)}

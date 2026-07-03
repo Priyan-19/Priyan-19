@@ -6,9 +6,9 @@
     </linearGradient>
   </defs>
 
-  <rect width="655" height="393" fill="#000000" rx="10"/>
+  <rect width="655" height="393" fill="#000000" rx="4"/>
 
-  <rect x="10" y="10" width="635" height="3" fill="url(#accent-gradient)" rx="1.5"/>
+  <rect x="10" y="10" width="635" height="3" fill="url(#accent-gradient)" rx="1"/>
 
   <text x="40" y="52" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="28" font-weight="700" fill="#ffffff">
     72,472
