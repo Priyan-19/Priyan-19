@@ -52,8 +52,8 @@ def generate_svg(loc_data):
                 else:
                     languages[lang] = {'code': code_lines}
 
-    # Sort by code count and limit to Top 6
-    top_languages = sorted(languages.items(), key=lambda x: x[1]['code'], reverse=True)[:6]
+    # Sort by code count and limit to Top 8
+    top_languages = sorted(languages.items(), key=lambda x: x[1]['code'], reverse=True)[:8]
 
     language_colors = {
         'Python': '#0080FF',
@@ -79,7 +79,7 @@ def generate_svg(loc_data):
         'JSON': '#b30000',
     }
 
-    svg_height = 160 + (len(top_languages) * 30) + 30
+    svg_height = 155 + (len(top_languages) * 26) + 30
     svg_width = int(svg_height * 5 / 3)
 
     svg = f'''<svg width="{svg_width}" height="{svg_height}" xmlns="http://www.w3.org/2000/svg">
@@ -94,29 +94,29 @@ def generate_svg(loc_data):
 
   <rect x="10" y="10" width="{svg_width - 20}" height="3" fill="url(#accent-gradient)" rx="1.5"/>
 
-  <text x="40" y="55" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="32" font-weight="700" fill="#ffffff">
+  <text x="40" y="52" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="28" font-weight="700" fill="#ffffff">
     {format_number(total_code)}
   </text>
-  <text x="40" y="80" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="14" fill="#ffffff">
+  <text x="40" y="74" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#ffffff">
     LINES OF CODE
   </text>
 
-  <text x="{svg_width - 40}" y="55" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="24" font-weight="600" fill="#ffffff" text-anchor="end">
+  <text x="{svg_width - 40}" y="52" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="22" font-weight="600" fill="#ffffff" text-anchor="end">
     {format_number(total_files)}
   </text>
-  <text x="{svg_width - 40}" y="75" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#ffffff" text-anchor="end">
+  <text x="{svg_width - 40}" y="70" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="11" fill="#ffffff" text-anchor="end">
     FILES
   </text>
 
-  <line x1="30" y1="100" x2="{svg_width - 30}" y2="100" stroke="#30363d" stroke-width="1"/>
+  <line x1="30" y1="95" x2="{svg_width - 30}" y2="95" stroke="#30363d" stroke-width="1"/>
 
-  <text x="40" y="130" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="16" font-weight="600" fill="#b30000">
+  <text x="40" y="122" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="14" font-weight="600" fill="#b30000">
     TOP LANGUAGES
   </text>
 '''
 
-    y_offset = 160
-    max_bar_width = svg_width - 350
+    y_offset = 150
+    max_bar_width = svg_width - 340
     max_code = top_languages[0][1]['code'] if top_languages else 1
 
     for idx, (lang, lang_data) in enumerate(top_languages):
@@ -126,19 +126,19 @@ def generate_svg(loc_data):
         percentage = (code_lines / total_code) * 100
 
         svg += f'''
-  <text x="40" y="{y_offset}" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="13" fill="#ffffff">
+  <text x="40" y="{y_offset}" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#ffffff">
     {lang}
   </text>
-  <rect x="180" y="{y_offset - 12}" width="{max_bar_width}" height="16" fill="#21262d" rx="4"/>
-  <rect x="180" y="{y_offset - 12}" width="{bar_width}" height="16" fill="{color}" rx="4" opacity="0.8"/>
-  <text x="{180 + max_bar_width + 20}" y="{y_offset}" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#ffffff">
+  <rect x="175" y="{y_offset - 11}" width="{max_bar_width}" height="14" fill="#21262d" rx="3"/>
+  <rect x="175" y="{y_offset - 11}" width="{bar_width}" height="14" fill="{color}" rx="3" opacity="0.85"/>
+  <text x="{175 + max_bar_width + 15}" y="{y_offset}" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="11" fill="#ffffff">
     {format_number(code_lines)}
   </text>
-  <text x="{svg_width - 40}" y="{y_offset}" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#ffffff" text-anchor="end">
+  <text x="{svg_width - 35}" y="{y_offset}" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="11" fill="#ffffff" text-anchor="end">
     {percentage:.1f}%
   </text>
 '''
-        y_offset += 25
+        y_offset += 26
 
     svg += '''
   <text x="{}" y="{}" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="10" fill="#00FFFF" text-anchor="end">
