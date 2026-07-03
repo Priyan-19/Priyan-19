@@ -52,8 +52,8 @@ def generate_svg(loc_data):
                 else:
                     languages[lang] = {'code': code_lines}
 
-    # Sort by code count and show all languages (or we can filter out tiny ones later)
-    top_languages = sorted(languages.items(), key=lambda x: x[1]['code'], reverse=True)
+    # Sort by code count and limit to Top 11 to fit perfectly in a 5:3 (800x480) ratio
+    top_languages = sorted(languages.items(), key=lambda x: x[1]['code'], reverse=True)[:11]
 
     language_colors = {
         'Python': '#0080FF',
@@ -79,8 +79,8 @@ def generate_svg(loc_data):
         'JSON': '#b30000',
     }
 
-    svg_height = 160 + (len(top_languages) * 25) + 30
-    svg_width = int(svg_height * 5 / 3)
+    svg_width = 800
+    svg_height = 480
 
     svg = f'''<svg width="{svg_width}" height="{svg_height}" xmlns="http://www.w3.org/2000/svg">
   <defs>
