@@ -1,2 +1,3 @@
-[pyrefly]
-exclude = ["scripts/generate-svg.py"]
+project_excludes = [
+  "scripts/generate-svg.py"
+]
