@@ -95,23 +95,23 @@ def generate_svg(loc_data):
 
   <rect x="10" y="10" width="{svg_width - 20}" height="3" fill="url(#accent-gradient)" rx="1"/>
 
-  <text x="40" y="52" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="28" font-weight="700" fill="#ffffff">
+  <text x="40" y="52" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="28" font-weight="700" fill="#ffffff">
     {format_number(total_code)}
   </text>
-  <text x="40" y="74" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#ffffff">
+  <text x="40" y="74" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="12" fill="#ffffff">
     LINES OF CODE
   </text>
 
-  <text x="{svg_width - 40}" y="52" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="22" font-weight="600" fill="#ffffff" text-anchor="end">
+  <text x="{svg_width - 40}" y="52" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="22" font-weight="600" fill="#ffffff" text-anchor="end">
     {format_number(total_files)}
   </text>
-  <text x="{svg_width - 40}" y="70" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="11" fill="#ffffff" text-anchor="end">
+  <text x="{svg_width - 40}" y="70" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff" text-anchor="end">
     FILES
   </text>
 
   <line x1="30" y1="95" x2="{svg_width - 30}" y2="95" stroke="#30363d" stroke-width="1"/>
 
-  <text x="40" y="122" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="14" font-weight="600" fill="#b30000">
+  <text x="40" y="122" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="14" font-weight="600" fill="#b30000">
     TOP LANGUAGES
   </text>
 '''
@@ -127,15 +127,15 @@ def generate_svg(loc_data):
         percentage = (code_lines / total_code) * 100
 
         svg += f'''
-  <text x="40" y="{y_offset}" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#ffffff">
+  <text x="40" y="{y_offset}" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="12" fill="#ffffff">
     {lang}
   </text>
   <rect x="175" y="{y_offset - 11}" width="{max_bar_width}" height="14" fill="#21262d" rx="3"/>
   <rect x="175" y="{y_offset - 11}" width="{bar_width}" height="14" fill="{color}" rx="3" opacity="0.85"/>
-  <text x="{175 + max_bar_width + 15}" y="{y_offset}" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="11" fill="#ffffff">
+  <text x="{175 + max_bar_width + 15}" y="{y_offset}" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff">
     {format_number(code_lines)}
   </text>
-  <text x="{svg_width - 35}" y="{y_offset}" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="11" fill="#ffffff" text-anchor="end">
+  <text x="{svg_width - 35}" y="{y_offset}" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff" text-anchor="end">
     {percentage:.1f}%
   </text>
 '''
