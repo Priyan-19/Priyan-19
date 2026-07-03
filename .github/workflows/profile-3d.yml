@@ -22,6 +22,57 @@ jobs:
         run: |
           npm install -g svgo
           svgo profile-3d-contrib/*.svg
+      - name: Add rounded corners to SVG
+        run: |
+          python3 - <<'EOF'
+          import re, glob
+
+          for svg_path in glob.glob("profile-3d-contrib/*.svg"):
+              with open(svg_path, "r", encoding="utf-8") as f:
+                  content = f.read()
+
+              # Extract width and height from the root <svg> tag
+              w_match = re.search(r'<svg[^>]*\swidth=["\']([^"\']+)["\']', content)
+              h_match = re.search(r'<svg[^>]*\sheight=["\']([^"\']+)["\']', content)
+              if not w_match or not h_match:
+                  print(f"Skipping {svg_path}: could not find width/height")
+                  continue
+
+              w = w_match.group(1)
+              h = h_match.group(1)
+              radius = 20
+
+              clip_def = (
+                  f'<defs>'
+                  f'<clipPath id="rounded-profile">'
+                  f'<rect width="{w}" height="{h}" rx="{radius}" ry="{radius}"/>'
+                  f'</clipPath>'
+                  f'</defs>'
+              )
+
+              # Insert <defs> right after the opening <svg ...> tag
+              content = re.sub(
+                  r'(<svg[^>]*>)',
+                  r'\1' + clip_def,
+                  content,
+                  count=1
+              )
+
+              # Apply clip-path to the first top-level <g> or <rect> inside svg
+              content = re.sub(
+                  r'(<svg[^>]*>(?:<defs>.*?</defs>)?)',
+                  r'\1<g clip-path="url(#rounded-profile)">',
+                  content,
+                  count=1,
+                  flags=re.DOTALL
+              )
+              content = content.replace('</svg>', '</g></svg>', 1)
+
+              with open(svg_path, "w", encoding="utf-8") as f:
+                  f.write(content)
+              print(f"Added rounded corners to {svg_path}")
+          EOF
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
