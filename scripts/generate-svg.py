@@ -83,7 +83,7 @@ def generate_svg(loc_data):
     svg_height = 155 + (len(top_languages) * 26) + 30
     svg_width = int(svg_height * 5 / 3)
 
-    svg = f'''<svg width="{svg_width}" height="{svg_height}" xmlns="http://www.w3.org/2000/svg">
+    svg = f'''<svg width="{svg_width}" height="{svg_height}" viewBox="0 0 {svg_width} {svg_height}" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="accent-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#b30000;stop-opacity:1" />
@@ -91,7 +91,7 @@ def generate_svg(loc_data):
     </linearGradient>
   </defs>
 
-  <rect width="{svg_width}" height="{svg_height}" fill="#000000" rx="4"/>
+  <rect x="1" y="1" width="{svg_width - 2}" height="{svg_height - 2}" fill="#000000" rx="8"/>
 
   <rect x="10" y="10" width="{svg_width - 20}" height="3" fill="url(#accent-gradient)" rx="1"/>
 

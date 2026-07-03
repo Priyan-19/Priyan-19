@@ -1,4 +1,4 @@
-<svg width="655" height="393" xmlns="http://www.w3.org/2000/svg">
+<svg width="655" height="393" viewBox="0 0 655 393" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="accent-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#b30000;stop-opacity:1" />
@@ -6,7 +6,7 @@
     </linearGradient>
   </defs>
 
-  <rect width="655" height="393" fill="#000000" rx="4"/>
+  <rect x="1" y="1" width="653" height="391" fill="#000000" rx="8"/>
 
   <rect x="10" y="10" width="635" height="3" fill="url(#accent-gradient)" rx="1"/>
 
