@@ -1,0 +1,20 @@
+{
+  "repos": [
+    "Priyan-19/DictHero",
+    "Priyan-19/Enargy",
+    "Priyan-19/GitHub_Analyzer",
+    "Priyan-19/Issue_Finder",
+    "Priyan-19/Leave_Management_System",
+    "Priyan-19/Leet_Practice",
+    "Priyan-19/Monsterverse_Extention",
+    "Priyan-19/MOSPEE",
+    "Priyan-19/Patterns_in_java",
+    "Priyan-19/Priyan-19",
+    "Priyan-19/RBM-Covai",
+    "Priyan-19/Site-Scanner",
+    "Priyan-19/Striker.IO",
+    "Priyan-19/TANZI",
+    "Priyan-19/WiFi_Radar"
+  ],
+  "exclude_languages": ["Markdown", "Text", "json", "yaml"]
+}

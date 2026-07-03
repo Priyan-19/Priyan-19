@@ -111,7 +111,9 @@ student = {
 <a href="https://github.com/Priyan-19"><img src="./profile-3d-contrib/profile-night-green.svg" alt="Priyan's 3D Contribution Graph" height="450"></a>
 <br><br>
 <a href="https://github.com/Priyan-19"><img src="https://streak-stats.demolab.com?user=Priyan-19&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" height="150"></a>
-
+<br><br>
+<!-- LOC-STATS:START -->
+<!-- LOC-STATS:END -->
 </div>
 
 ---
