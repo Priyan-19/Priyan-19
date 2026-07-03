@@ -80,7 +80,7 @@ def generate_svg(loc_data):
     }
 
     svg_width = 800
-    svg_height = 160 + (len(top_languages) * 25) + 10
+    svg_height = 480
 
     svg = f'''<svg width="{svg_width}" height="{svg_height}" xmlns="http://www.w3.org/2000/svg">
   <defs>
