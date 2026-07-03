@@ -113,7 +113,7 @@ student = {
 <a href="https://github.com/Priyan-19"><img src="https://streak-stats.demolab.com?user=Priyan-19&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" height="150"></a>
 <br><br>
 <!-- LOC-STATS:START -->
-<img src="./loc-stats.svg?v=3" alt="LOC Stats" width="84%" />
+<img src="./loc-stats.svg" alt="LOC Stats" width="84%" />
 <!-- LOC-STATS:END -->
 </div>
 
