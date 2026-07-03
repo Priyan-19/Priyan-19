@@ -11,7 +11,7 @@
   <rect x="10" y="10" width="780" height="3" fill="url(#accent-gradient)" rx="1.5"/>
 
   <text x="40" y="55" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="32" font-weight="700" fill="#ffffff">
-    72,527
+    72,626
   </text>
   <text x="40" y="80" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="14" fill="#ffffff">
     LINES OF CODE
@@ -99,7 +99,7 @@
     5,336
   </text>
   <text x="760" y="285" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#ffffff" text-anchor="end">
-    7.4%
+    7.3%
   </text>
 
   <text x="40" y="310" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="13" fill="#ffffff">
@@ -111,7 +111,7 @@
     1,415
   </text>
   <text x="760" y="310" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#ffffff" text-anchor="end">
-    2.0%
+    1.9%
   </text>
 
   <text x="40" y="335" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="13" fill="#ffffff">
@@ -166,12 +166,12 @@
     SVG
   </text>
   <rect x="180" y="423" width="450" height="16" fill="#21262d" rx="4"/>
-  <rect x="180" y="423" width="4.30858577931251" height="16" fill="#58a6ff" rx="4" opacity="0.8"/>
+  <rect x="180" y="423" width="6.056741484853241" height="16" fill="#58a6ff" rx="4" opacity="0.8"/>
   <text x="650" y="435" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#ffffff">
-    244
+    343
   </text>
   <text x="760" y="435" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#ffffff" text-anchor="end">
-    0.3%
+    0.5%
   </text>
 
   <text x="40" y="460" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="13" fill="#ffffff">
