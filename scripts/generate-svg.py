@@ -79,8 +79,8 @@ def generate_svg(loc_data):
         'JSON': '#b30000',
     }
 
-    svg_width = 800
-    svg_height = 480
+    svg_height = 160 + (len(top_languages) * 25) + 30
+    svg_width = int(svg_height * 5 / 3)
 
     svg = f'''<svg width="{svg_width}" height="{svg_height}" xmlns="http://www.w3.org/2000/svg">
   <defs>
