@@ -48,7 +48,7 @@ student = {
 <div align="left">
 <ul>
 <li>🎓 Pursuing my degree in <b>Computer Science and Business Systems</b> at <b>Dr.N.G.P. Institute of Technology</b></li>
-<li>🌱 Passionate about <b>web development</b>, <b>problem solving</b>, and <b>cybersecurity<b></li>
+<li>🌱 Passionate about <b>web development</b>, <b>problem solving</b>, and <b>cybersecurity</b></li>
 <li>🔍 Currently exploring how software and security intersect in the real world</li>
 <li>🎯 Goal: Land a solid internship and contribute to open-source projects</li>
 </ul>
@@ -97,10 +97,9 @@ student = {
 
 ## 🚀 Top Projects
 
-<table align="center" width="100%">
+<table align="center" width="80%">
   <tr>
-    <td width="10%"></td>
-    <td width="40%" valign="top">
+    <td width="50%" valign="top">
       <h3>Reborn Motors Website 🚗</h3>
       <p><font size="2">A sleek website for Reborn Motors, showcasing modern automotive services.</font></p>
       <p>
@@ -108,7 +107,7 @@ student = {
       </p>
       <a href="https://github.com/Priyan-19/RBM-Covai"><font size="2">Explore Repository →</font></a>
     </td>
-    <td width="40%" valign="top">
+    <td width="50%" valign="top">
       <h3>Tanzi Task Manager ⏰</h3>
       <p><font size="2">A reminder-based task management system to keep your daily schedules on track.</font></p>
       <p>
@@ -116,11 +115,9 @@ student = {
       </p>
       <a href="https://github.com/Priyan-19/TANZI"><font size="2">Explore Repository →</font></a>
     </td>
-    <td width="10%"></td>
   </tr>
   <tr>
-    <td width="10%"></td>
-    <td width="40%" valign="top">
+    <td width="50%" valign="top">
       <h3>Mospee Speedometer 📱</h3>
       <p><font size="2">A reliable mobile speedometer app to track real-time velocity and trip distance.</font></p>
       <p>
@@ -128,7 +125,7 @@ student = {
       </p>
       <a href="https://github.com/Priyan-19/MOSPEE"><font size="2">Explore Repository →</font></a>
     </td>
-    <td width="40%" valign="top">
+    <td width="50%" valign="top">
       <h3>DictHero 📖</h3>
       <p><font size="2">An interactive vocabulary builder to learn and store new words effortlessly.</font></p>
       <p>
@@ -136,11 +133,9 @@ student = {
       </p>
       <a href="https://github.com/Priyan-19/DictHero"><font size="2">Explore Repository →</font></a>
     </td>
-    <td width="10%"></td>
   </tr>
   <tr>
-    <td width="10%"></td>
-    <td width="40%" valign="top">
+    <td width="50%" valign="top">
       <h3>MonsterVerse Extension 👾</h3>
       <p><font size="2">A MonsterVerse-themed extension bringing custom themes and tools to VS Code.</font></p>
       <p>
@@ -148,7 +143,7 @@ student = {
       </p>
       <a href="https://github.com/Priyan-19/Monsterverse_Extention"><font size="2">Explore Repository →</font></a>
     </td>
-    <td width="40%" valign="top">
+    <td width="50%" valign="top">
       <h3>WiFi Radar 📶</h3>
       <p><font size="2">A WiFi scanner using ESP32 to map and analyze nearby wireless signals.</font></p>
       <p>
@@ -156,9 +151,11 @@ student = {
       </p>
       <a href="https://github.com/Priyan-19/WiFi_Radar"><font size="2">Explore Repository →</font></a>
     </td>
-    <td width="10%"></td>
   </tr>
 </table>
+
+
+
 
 <!-- REPOS-BADGE:START -->
 <p align="center">
@@ -181,13 +178,20 @@ student = {
 
 
 <div align="center">
-<a href="https://github.com/Priyan-19"><img src="./profile-3d-contrib/profile-night-green.svg" alt="Priyan's 3D Contribution Graph" height="450"></a>
-<br><br>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" align="center">
+      <a href="https://github.com/Priyan-19"><img src="./profile-3d-contrib/profile-night-green.svg" alt="Priyan's 3D Contribution Graph" height="300"></a>
+    </td>
+    <td valign="top" align="center">
+      <!-- LOC-STATS:START -->
+      <img src="./loc-stats.svg" alt="LOC Stats" height="300" />
+      <!-- LOC-STATS:END -->
+    </td>
+  </tr>
+</table>
+<br>
 <a href="https://github.com/Priyan-19"><img src="https://streak-stats.demolab.com?user=Priyan-19&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" height="150"></a>
-<br><br>
-<!-- LOC-STATS:START -->
-<img src="./loc-stats.svg" alt="LOC Stats" width="84%" />
-<!-- LOC-STATS:END -->
 </div>
 
 ---
