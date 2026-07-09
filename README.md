@@ -184,9 +184,9 @@ student = {
       <a href="https://github.com/Priyan-19"><img src="./profile-3d-contrib/profile-night-green.svg" alt="Priyan's 3D Contribution Graph" height="300"></a>
     </td>
     <td valign="top" align="center">
-      <!-- LOC-STATS:START -->
-      <img src="./loc-stats.svg" alt="LOC Stats" height="300" />
-      <!-- LOC-STATS:END -->
+<!-- LOC-STATS:START -->
+<img src="./loc-stats.svg" alt="LOC Stats" height="300" />
+<!-- LOC-STATS:END -->
     </td>
   </tr>
 </table>
