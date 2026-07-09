@@ -157,18 +157,17 @@ student = {
 
 
 
-<!-- REPOS-BADGE:START -->
 <p align="center">
   <a href="https://github.com/Priyan-19?tab=repositories"><img src="https://img.shields.io/badge/Total%20Repositories-15-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="Total Repositories" /></a>
 </p>
-<!-- REPOS-BADGE:END -->
 
+---
 
 
 ## 📊 LeetCode Stats
 <div align="center">
 
-<a href="https://leetcode.com/u/Priyan-19"><img  src="https://leetcard.jacoblin.cool/Priyan-19?theme=dark&font=Coda%20Caption&ext=heatmap&hide_border=true" ></a>
+<a href="https://leetcode.com/u/Priyan-19"><img  src="https://leetcard.jacoblin.cool/Priyan-19?theme=dark&font=Coda%20Caption&&hide_borders=true" height="305" ></a>
 
 </div>
 
@@ -178,20 +177,11 @@ student = {
 
 
 <div align="center">
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td valign="top" align="center">
-      <a href="https://github.com/Priyan-19"><img src="./profile-3d-contrib/profile-night-green.svg" alt="Priyan's 3D Contribution Graph" height="300"></a>
-    </td>
-    <td valign="top" align="center">
-<!-- LOC-STATS:START -->
-<img src="./loc-stats.svg" alt="LOC Stats" height="300" />
-<!-- LOC-STATS:END -->
-    </td>
-  </tr>
-</table>
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="Priyan's 3D Contribution Graph" height="305" style="display: inline;">
+<img src="./loc-stats.svg" alt="LOC Stats" height="306" />
+
 <br>
-<a href="https://github.com/Priyan-19"><img src="https://streak-stats.demolab.com?user=Priyan-19&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" height="150"></a>
+<a href="https://github.com/Priyan-19"><img src="https://streak-stats.demolab.com?user=Priyan-19&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" height="135"></a>
 </div>
 
 ---
