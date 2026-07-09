@@ -97,7 +97,7 @@ student = {
 
 ## 🚀 Top Projects
 
-<table width="90%" align="center">
+<table width="80%" align="center">
   <tr>
     <td width="50%" valign="top">
       <h3>Reborn Motors Website 🚗</h3>
