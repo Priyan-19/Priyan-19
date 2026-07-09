@@ -181,7 +181,7 @@ student = {
 <br><br>
 <!-- LOC-STATS:START -->
 <img src="./loc-stats.svg" alt="LOC Stats" width="84%" />
-@@<!-- LOC-STATS:END -->
+<!-- LOC-STATS:END -->
 </div>
 
 ---
