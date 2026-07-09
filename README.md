@@ -97,7 +97,6 @@ student = {
 
 ## 🚀 Top Projects
 
-<!-- TOP-PROJECTS:START -->
 <table width="90%" align="center">
   <tr>
     <td width="50%" valign="top">
@@ -155,10 +154,11 @@ student = {
   </tr>
 </table>
 
+<!-- REPOS-BADGE:START -->
 <p align="center">
   <a href="https://github.com/Priyan-19?tab=repositories"><img src="https://img.shields.io/badge/Total%20Repositories-15-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="Total Repositories" /></a>
 </p>
-<!-- TOP-PROJECTS:END -->
+<!-- REPOS-BADGE:END -->
 
 
 
