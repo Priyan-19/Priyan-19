@@ -97,9 +97,10 @@ student = {
 
 ## 🚀 Top Projects
 
-<table width="80%" align="center">
+<table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="10%"></td>
+    <td width="40%" valign="top">
       <h3>Reborn Motors Website 🚗</h3>
       <p><font size="2">A sleek website for Reborn Motors, showcasing modern automotive services.</font></p>
       <p>
@@ -107,7 +108,7 @@ student = {
       </p>
       <a href="https://github.com/Priyan-19/RBM-Covai"><font size="2">Explore Repository →</font></a>
     </td>
-    <td width="50%" valign="top">
+    <td width="40%" valign="top">
       <h3>Tanzi Task Manager ⏰</h3>
       <p><font size="2">A reminder-based task management system to keep your daily schedules on track.</font></p>
       <p>
@@ -115,9 +116,11 @@ student = {
       </p>
       <a href="https://github.com/Priyan-19/TANZI"><font size="2">Explore Repository →</font></a>
     </td>
+    <td width="10%"></td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="10%"></td>
+    <td width="40%" valign="top">
       <h3>Mospee Speedometer 📱</h3>
       <p><font size="2">A reliable mobile speedometer app to track real-time velocity and trip distance.</font></p>
       <p>
@@ -125,7 +128,7 @@ student = {
       </p>
       <a href="https://github.com/Priyan-19/MOSPEE"><font size="2">Explore Repository →</font></a>
     </td>
-    <td width="50%" valign="top">
+    <td width="40%" valign="top">
       <h3>DictHero 📖</h3>
       <p><font size="2">An interactive vocabulary builder to learn and store new words effortlessly.</font></p>
       <p>
@@ -133,9 +136,11 @@ student = {
       </p>
       <a href="https://github.com/Priyan-19/DictHero"><font size="2">Explore Repository →</font></a>
     </td>
+    <td width="10%"></td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="10%"></td>
+    <td width="40%" valign="top">
       <h3>MonsterVerse Extension 👾</h3>
       <p><font size="2">A MonsterVerse-themed extension bringing custom themes and tools to VS Code.</font></p>
       <p>
@@ -143,7 +148,7 @@ student = {
       </p>
       <a href="https://github.com/Priyan-19/Monsterverse_Extention"><font size="2">Explore Repository →</font></a>
     </td>
-    <td width="50%" valign="top">
+    <td width="40%" valign="top">
       <h3>WiFi Radar 📶</h3>
       <p><font size="2">A WiFi scanner using ESP32 to map and analyze nearby wireless signals.</font></p>
       <p>
@@ -151,6 +156,7 @@ student = {
       </p>
       <a href="https://github.com/Priyan-19/WiFi_Radar"><font size="2">Explore Repository →</font></a>
     </td>
+    <td width="10%"></td>
   </tr>
 </table>
 
