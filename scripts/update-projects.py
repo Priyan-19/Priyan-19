@@ -74,9 +74,11 @@ def fetch_total_repos():
         return 15
 
 def generate_projects_html(repo_count):
-    badge = f"[![Total Repositories](https://img.shields.io/badge/Total%20Repositories-{repo_count}-6E40C9?style=flat-square&logo=github)](https://github.com/{USERNAME}?tab=repositories)"
+    badge_url = f"https://img.shields.io/badge/Total%20Repositories-{repo_count}-6E40C9?style=for-the-badge&logo=github&logoColor=white"
+    dest_url = f"https://github.com/{USERNAME}?tab=repositories"
+    badge_html = f'<a href="{dest_url}"><img src="{badge_url}" alt="Total Repositories" /></a>'
     
-    html = "<table width=\"100%\">\n"
+    html = "<table width=\"90%\" align=\"center\">\n"
     
     # 2 columns x 3 rows
     for i in range(0, len(PROJECTS), 2):
@@ -92,17 +94,17 @@ def generate_projects_html(repo_count):
                 badges_html = " ".join([f'<img src="{TECH_BADGES.get(t, "")}" alt="{t}" />' for t in techs if t in TECH_BADGES])
                 
                 html += f'    <td width="50%" valign="top">\n'
-                html += f'      <h3>{name}</h3>\n'
-                html += f'      <p>{desc}</p>\n'
+                html += f'      <h4>{name}</h4>\n'
+                html += f'      <p><font size="2">{desc}</font></p>\n'
                 html += f'      <p>\n'
                 html += f'        {badges_html}\n'
                 html += f'      </p>\n'
-                html += f'      <a href="https://github.com/{USERNAME}/{repo}"><b>Explore Repository →</b></a>\n'
+                html += f'      <a href="https://github.com/{USERNAME}/{repo}"><font size="2">Explore Repository →</font></a>\n'
                 html += f'    </td>\n'
         html += "  </tr>\n"
         
     html += "</table>\n\n"
-    html += f'<p align="center">\n  {badge}\n</p>'
+    html += f'<p align="center">\n  {badge_html}\n</p>'
     return html
 
 def main():

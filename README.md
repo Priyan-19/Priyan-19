@@ -98,65 +98,65 @@ student = {
 ## 🚀 Top Projects
 
 <!-- TOP-PROJECTS:START -->
-<table width="100%">
+<table width="90%" align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3>Reborn Motors Website 🚗</h3>
-      <p>A sleek website for Reborn Motors, showcasing modern automotive services.</p>
+      <h4>Reborn Motors Website 🚗</h4>
+      <p><font size="2">A sleek website for Reborn Motors, showcasing modern automotive services.</font></p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
       </p>
-      <a href="https://github.com/Priyan-19/RBM-Covai"><b>Explore Repository →</b></a>
+      <a href="https://github.com/Priyan-19/RBM-Covai"><font size="2">Explore Repository →</font></a>
     </td>
     <td width="50%" valign="top">
-      <h3>Tanzi Task Manager ⏰</h3>
-      <p>A reminder-based task management system to keep your daily schedules on track.</p>
+      <h4>Tanzi Task Manager ⏰</h4>
+      <p><font size="2">A reminder-based task management system to keep your daily schedules on track.</font></p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
       </p>
-      <a href="https://github.com/Priyan-19/TANZI"><b>Explore Repository →</b></a>
+      <a href="https://github.com/Priyan-19/TANZI"><font size="2">Explore Repository →</font></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Mospee Speedometer 📱</h3>
-      <p>A reliable mobile speedometer app to track real-time velocity and trip distance.</p>
+      <h4>Mospee Speedometer 📱</h4>
+      <p><font size="2">A reliable mobile speedometer app to track real-time velocity and trip distance.</font></p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio" />
       </p>
-      <a href="https://github.com/Priyan-19/MOSPEE"><b>Explore Repository →</b></a>
+      <a href="https://github.com/Priyan-19/MOSPEE"><font size="2">Explore Repository →</font></a>
     </td>
     <td width="50%" valign="top">
-      <h3>DictHero 📖</h3>
-      <p>An interactive vocabulary builder to learn and store new words effortlessly.</p>
+      <h4>DictHero 📖</h4>
+      <p><font size="2">An interactive vocabulary builder to learn and store new words effortlessly.</font></p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       </p>
-      <a href="https://github.com/Priyan-19/DictHero"><b>Explore Repository →</b></a>
+      <a href="https://github.com/Priyan-19/DictHero"><font size="2">Explore Repository →</font></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>MonsterVerse Extension 👾</h3>
-      <p>A MonsterVerse-themed extension bringing custom themes and tools to VS Code.</p>
+      <h4>MonsterVerse Extension 👾</h4>
+      <p><font size="2">A MonsterVerse-themed extension bringing custom themes and tools to VS Code.</font></p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code API" />
       </p>
-      <a href="https://github.com/Priyan-19/Monsterverse_Extention"><b>Explore Repository →</b></a>
+      <a href="https://github.com/Priyan-19/Monsterverse_Extention"><font size="2">Explore Repository →</font></a>
     </td>
     <td width="50%" valign="top">
-      <h3>WiFi Radar 📶</h3>
-      <p>A WiFi scanner using ESP32 to map and analyze nearby wireless signals.</p>
+      <h4>WiFi Radar 📶</h4>
+      <p><font size="2">A WiFi scanner using ESP32 to map and analyze nearby wireless signals.</font></p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
       </p>
-      <a href="https://github.com/Priyan-19/WiFi_Radar"><b>Explore Repository →</b></a>
+      <a href="https://github.com/Priyan-19/WiFi_Radar"><font size="2">Explore Repository →</font></a>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  [![Total Repositories](https://img.shields.io/badge/Total%20Repositories-15-6E40C9?style=flat-square&logo=github)](https://github.com/Priyan-19?tab=repositories)
+  <a href="https://github.com/Priyan-19?tab=repositories"><img src="https://img.shields.io/badge/Total%20Repositories-15-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="Total Repositories" /></a>
 </p>
 <!-- TOP-PROJECTS:END -->
 
