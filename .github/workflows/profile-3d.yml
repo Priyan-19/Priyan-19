@@ -35,7 +35,7 @@ jobs:
               # This cleanly gives the SVG rounded corners without clip-paths.
               new_content = re.sub(
                   r'<path d="M0 0h(\d+)v(\d+)H0z"([^>]*?)/>',
-                  r'<rect width="\1" height="\2" rx="4" ry="4"\3/>',
+                  r'<rect width="\1" height="\2" rx="15" ry="15"\3/>',
                   content
               )
 
@@ -43,7 +43,7 @@ jobs:
               if new_content == content:
                   new_content = re.sub(
                       r'<path d="M0 0h(\d+)v(\d+)H0z"([^>]*?)></path>',
-                      r'<rect width="\1" height="\2" rx="4" ry="4"\3></rect>',
+                      r'<rect width="\1" height="\2" rx="15" ry="15"\3></rect>',
                       content
                   )
 
