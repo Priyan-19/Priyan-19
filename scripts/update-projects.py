@@ -94,7 +94,7 @@ def generate_projects_html(repo_count):
                 badges_html = " ".join([f'<img src="{TECH_BADGES.get(t, "")}" alt="{t}" />' for t in techs if t in TECH_BADGES])
                 
                 html += f'    <td width="50%" valign="top">\n'
-                html += f'      <h4>{name}</h4>\n'
+                html += f'      <h3>{name}</h3>\n'
                 html += f'      <p><font size="2">{desc}</font></p>\n'
                 html += f'      <p>\n'
                 html += f'        {badges_html}\n'
