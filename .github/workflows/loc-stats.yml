@@ -51,7 +51,7 @@ jobs:
       - name: Update README with SVG
         run: |
           if grep -q "<!-- LOC-STATS:START -->" README.md; then
-            sed -i '/<!-- LOC-STATS:START -->/,/<!-- LOC-STATS:END -->/c\<!-- LOC-STATS:START -->\n<img src="./loc-stats.svg" alt="LOC Stats" height="300" />\n<!-- LOC-STATS:END -->' README.md
+            sed -i '/<!-- LOC-STATS:START -->/,/<!-- LOC-STATS:END -->/c\<!-- LOC-STATS:START -->\n<img src="./loc/loc-stats.svg" alt="LOC Stats" height="300" />\n<!-- LOC-STATS:END -->' README.md
           else
             echo "Warning: LOC-STATS markers not found in README.md"
           fi
@@ -60,6 +60,6 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add loc-stats.svg loc-data.json README.md
+          git add loc/loc-stats.svg loc/loc-data.json README.md
           git diff --quiet && git diff --staged --quiet || git commit -m "chore: update LOC statistics [skip ci]"
           git push

@@ -150,7 +150,7 @@ def generate_svg(loc_data):
     return svg
 
 def main():
-    loc_file = Path('loc-data.json')
+    loc_file = Path('loc/loc-data.json')
 
     if not loc_file.exists():
         print("Error: loc-data.json not found!", file=sys.stderr)
@@ -161,7 +161,7 @@ def main():
 
     svg_content = generate_svg(loc_data)
 
-    output_path = Path('loc-stats.svg')
+    output_path = Path('loc/loc-stats.svg')
     with open(output_path, 'w') as f:
         f.write(svg_content)
 

@@ -6,7 +6,7 @@ set -e
 echo "Starting LOC counting process..."
 
 WORKSPACE_DIR="$(pwd)"
-OUTPUT_FILE="$WORKSPACE_DIR/loc-data.json"
+OUTPUT_FILE="$WORKSPACE_DIR/loc/loc-data.json"
 TEMP_DIR=$(mktemp -d)
 
 # GitHub username — change this if you fork this script
