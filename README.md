@@ -18,7 +18,10 @@
 
 </div>
 
----
+<div style="height:2px; background: linear-gradient(90deg, #ffffff, #6a11cb, #2575fc, #00d4ff); background-size: 200% 100%; animation: slide 3s linear infinite;"></div>
+<style>
+@keyframes slide { 0%{background-position:0% 0%;} 100%{background-position:200% 0%;} }
+</style>
 
 ## 👋 Introduction
 
@@ -37,7 +40,10 @@ student = {
 ```
 </div>
 
----
+<div style="height:2px; background: linear-gradient(90deg, #ffffff, #6a11cb, #2575fc, #00d4ff); background-size: 200% 100%; animation: slide 3s linear infinite;"></div>
+<style>
+@keyframes slide { 0%{background-position:0% 0%;} 100%{background-position:200% 0%;} }
+</style>
 
 ## 🧑‍💻 About Me
 
@@ -56,7 +62,10 @@ student = {
 <br>
 
 
----
+<div style="height:2px; background: linear-gradient(90deg, #ffffff, #6a11cb, #2575fc, #00d4ff); background-size: 200% 100%; animation: slide 3s linear infinite;"></div>
+<style>
+@keyframes slide { 0%{background-position:0% 0%;} 100%{background-position:200% 0%;} }
+</style>
 
 ## 🛠️ Skills
 
@@ -93,7 +102,10 @@ student = {
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2511839)
 [![Leeacode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=default)](https://leetcode.com/u/Priyan19)
 
----
+<div style="height:2px; background: linear-gradient(90deg, #ffffff, #6a11cb, #2575fc, #00d4ff); background-size: 200% 100%; animation: slide 3s linear infinite;"></div>
+<style>
+@keyframes slide { 0%{background-position:0% 0%;} 100%{background-position:200% 0%;} }
+</style>
 
 ## 🚀 Top Projects
 
@@ -163,7 +175,10 @@ student = {
 </p>
 <!-- REPOS-BADGE:END -->
 
----
+<div style="height:2px; background: linear-gradient(90deg, #ffffff, #6a11cb, #2575fc, #00d4ff); background-size: 200% 100%; animation: slide 3s linear infinite;"></div>
+<style>
+@keyframes slide { 0%{background-position:0% 0%;} 100%{background-position:200% 0%;} }
+</style>
 
 
 ## 📊 LeetCode Stats
@@ -173,7 +188,10 @@ student = {
 
 </div>
 
----
+<div style="height:2px; background: linear-gradient(90deg, #ffffff, #6a11cb, #2575fc, #00d4ff); background-size: 200% 100%; animation: slide 3s linear infinite;"></div>
+<style>
+@keyframes slide { 0%{background-position:0% 0%;} 100%{background-position:200% 0%;} }
+</style>
 
 ## 📊 GitHub Stats
 
@@ -186,7 +204,10 @@ student = {
 <a href="https://github.com/Priyan-19"><img src="https://streak-stats.demolab.com?user=Priyan-19&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" height="135"></a>
 </div>
 
----
+<div style="height:2px; background: linear-gradient(90deg, #ffffff, #6a11cb, #2575fc, #00d4ff); background-size: 200% 100%; animation: slide 3s linear infinite;"></div>
+<style>
+@keyframes slide { 0%{background-position:0% 0%;} 100%{background-position:200% 0%;} }
+</style>
 
 ## 📬 Contact Me
 
