@@ -177,8 +177,8 @@ student = {
 
 
 <div align="center">
-<img src="./profile-3d-contrib/profile-night-green.svg" alt="Priyan's 3D Contribution Graph" height="298" style="display: inline;">
-<img src="./loc/loc-stats.svg" alt="LOC Stats" height="299" />
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="Priyan's 3D Contribution Graph" height="295" style="display: inline;">
+<img src="./loc/loc-stats.svg" alt="LOC Stats" height="296" />
 
 <br>
 <a href="https://github.com/Priyan-19"><img src="https://streak-stats.demolab.com?user=Priyan-19&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" height="135"></a>
