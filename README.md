@@ -178,8 +178,8 @@ student = {
 
 <div align="center">
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="Priyan's 3D Contribution Graph" height="295" width="49%">
-  <img src="./loc/loc-stats.svg" alt="LOC Stats" height="296" width = "52%">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="Priyan's 3D Contribution Graph" height="285" width="49%">
+  <img src="./loc/loc-stats.svg" alt="LOC Stats" height="296" width = "50%">
 </p>
 
 <br>
