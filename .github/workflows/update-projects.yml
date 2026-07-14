@@ -24,6 +24,8 @@ jobs:
           python-version: '3.11'
 
       - name: Update README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/update-projects.py
 
       - name: Commit and push changes

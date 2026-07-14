@@ -3,6 +3,7 @@ import urllib.request
 import json
 import re
 import sys
+import os
 from pathlib import Path
 
 USERNAME = "Priyan-19"
@@ -10,7 +11,11 @@ README_PATH = Path("README.md")
 
 def fetch_total_repos():
     url = f"https://api.github.com/users/{USERNAME}"
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    headers = {"User-Agent": "Mozilla/5.0"}
+    token = os.environ.get("GITHUB_TOKEN")
+    if token:
+        headers["Authorization"] = f"token {token}"
+    req = urllib.request.Request(url, headers=headers)
     try:
         with urllib.request.urlopen(req) as response:
             data = json.loads(response.read().decode())
