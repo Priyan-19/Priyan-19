@@ -2,7 +2,7 @@
 
 <h1 align="center">
   
-  Hi I'm Priyan. 
+  Hi👋I'm Priyan. 
 </h1>
 
 
