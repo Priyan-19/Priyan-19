@@ -11,14 +11,14 @@
   <rect x="10" y="10" width="635" height="3" fill="url(#accent-gradient)" rx="1"/>
 
   <text x="40" y="52" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="28" font-weight="700" fill="#ffffff">
-    88,782
+    137,276
   </text>
   <text x="40" y="74" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="12" fill="#ffffff">
     LINES OF CODE
   </text>
 
   <text x="615" y="52" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="22" font-weight="600" fill="#ffffff" text-anchor="end">
-    1,105
+    1,434
   </text>
   <text x="615" y="70" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff" text-anchor="end">
     FILES
@@ -31,99 +31,99 @@
   </text>
 
   <text x="40" y="150" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="12" fill="#ffffff">
-    JSON
+    TypeScript
   </text>
   <rect x="175" y="139" width="315" height="14" fill="#21262d" rx="3"/>
-  <rect x="175" y="139" width="315.0" height="14" fill="#b30000" rx="3" opacity="0.85"/>
+  <rect x="175" y="139" width="315.0" height="14" fill="#00CED1" rx="3" opacity="0.85"/>
   <text x="505" y="150" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff">
-    28,158
+    51,253
   </text>
   <text x="620" y="150" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff" text-anchor="end">
-    31.7%
+    37.3%
   </text>
 
   <text x="40" y="176" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="12" fill="#ffffff">
-    Python
+    JSON
   </text>
   <rect x="175" y="165" width="315" height="14" fill="#21262d" rx="3"/>
-  <rect x="175" y="165" width="212.77434476880458" height="14" fill="#0080FF" rx="3" opacity="0.85"/>
+  <rect x="175" y="165" width="182.77534973562524" height="14" fill="#b30000" rx="3" opacity="0.85"/>
   <text x="505" y="176" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff">
-    19,020
+    29,739
   </text>
   <text x="620" y="176" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff" text-anchor="end">
-    21.4%
+    21.7%
   </text>
 
   <text x="40" y="202" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="12" fill="#ffffff">
-    JavaScript
+    Python
   </text>
   <rect x="175" y="191" width="315" height="14" fill="#21262d" rx="3"/>
-  <rect x="175" y="191" width="195.73673556360535" height="14" fill="#FFD700" rx="3" opacity="0.85"/>
+  <rect x="175" y="191" width="116.89657190798587" height="14" fill="#0080FF" rx="3" opacity="0.85"/>
   <text x="505" y="202" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff">
-    17,497
+    19,020
   </text>
   <text x="620" y="202" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff" text-anchor="end">
-    19.7%
+    13.9%
   </text>
 
   <text x="40" y="228" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="12" fill="#ffffff">
-    CSS
+    JavaScript
   </text>
   <rect x="175" y="217" width="315" height="14" fill="#21262d" rx="3"/>
-  <rect x="175" y="217" width="69.7165991902834" height="14" fill="#563d7c" rx="3" opacity="0.85"/>
+  <rect x="175" y="217" width="109.45378807094218" height="14" fill="#FFD700" rx="3" opacity="0.85"/>
   <text x="505" y="228" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff">
-    6,232
+    17,809
   </text>
   <text x="620" y="228" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff" text-anchor="end">
-    7.0%
+    13.0%
   </text>
 
   <text x="40" y="254" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="12" fill="#ffffff">
-    Kotlin
+    CSS
   </text>
   <rect x="175" y="243" width="315" height="14" fill="#21262d" rx="3"/>
-  <rect x="175" y="243" width="65.018112081824" height="14" fill="#F18E33" rx="3" opacity="0.85"/>
+  <rect x="175" y="243" width="39.14375743858896" height="14" fill="#563d7c" rx="3" opacity="0.85"/>
   <text x="505" y="254" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff">
-    5,812
+    6,369
   </text>
   <text x="620" y="254" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff" text-anchor="end">
-    6.5%
+    4.6%
   </text>
 
   <text x="40" y="280" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="12" fill="#ffffff">
-    TypeScript
+    Kotlin
   </text>
   <rect x="175" y="269" width="315" height="14" fill="#21262d" rx="3"/>
-  <rect x="175" y="269" width="59.69316002557" height="14" fill="#00CED1" rx="3" opacity="0.85"/>
+  <rect x="175" y="269" width="35.72044563245078" height="14" fill="#F18E33" rx="3" opacity="0.85"/>
   <text x="505" y="280" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff">
-    5,336
+    5,812
   </text>
   <text x="620" y="280" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff" text-anchor="end">
-    6.0%
+    4.2%
   </text>
 
   <text x="40" y="306" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="12" fill="#ffffff">
     HTML
   </text>
   <rect x="175" y="295" width="315" height="14" fill="#21262d" rx="3"/>
-  <rect x="175" y="295" width="15.974856168761985" height="14" fill="#e34c26" rx="3" opacity="0.85"/>
+  <rect x="175" y="295" width="9.065323005482606" height="14" fill="#e34c26" rx="3" opacity="0.85"/>
   <text x="505" y="306" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff">
-    1,428
+    1,475
   </text>
   <text x="620" y="306" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff" text-anchor="end">
-    1.6%
+    1.1%
   </text>
 
   <text x="40" y="332" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="12" fill="#ffffff">
     SQL
   </text>
   <rect x="175" y="321" width="315" height="14" fill="#21262d" rx="3"/>
-  <rect x="175" y="321" width="13.256445770296185" height="14" fill="#58a6ff" rx="3" opacity="0.85"/>
+  <rect x="175" y="321" width="7.2829883128792465" height="14" fill="#58a6ff" rx="3" opacity="0.85"/>
   <text x="505" y="332" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff">
     1,185
   </text>
   <text x="620" y="332" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff" text-anchor="end">
-    1.3%
+    0.9%
   </text>
 
   <text x="635" y="383" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="10" fill="#00FFFF" text-anchor="end">
