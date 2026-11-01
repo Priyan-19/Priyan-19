@@ -11,14 +11,14 @@
   <rect x="10" y="10" width="635" height="3" fill="url(#accent-gradient)" rx="1"/>
 
   <text x="40" y="52" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="28" font-weight="700" fill="#ffffff">
-    1,004,458
+    110,563
   </text>
   <text x="40" y="74" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="12" fill="#ffffff">
     LINES OF CODE
   </text>
 
   <text x="615" y="52" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="22" font-weight="600" fill="#ffffff" text-anchor="end">
-    2,998
+    1,230
   </text>
   <text x="615" y="70" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff" text-anchor="end">
     FILES
@@ -31,99 +31,99 @@
   </text>
 
   <text x="40" y="150" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="12" fill="#ffffff">
-    C++ Header
+    JSON
   </text>
   <rect x="175" y="139" width="315" height="14" fill="#21262d" rx="3"/>
-  <rect x="175" y="139" width="315.0" height="14" fill="#58a6ff" rx="3" opacity="0.85"/>
+  <rect x="175" y="139" width="315.0" height="14" fill="#b30000" rx="3" opacity="0.85"/>
   <text x="505" y="150" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff">
-    323,430
+    37,465
   </text>
   <text x="620" y="150" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff" text-anchor="end">
-    32.2%
+    33.9%
   </text>
 
   <text x="40" y="176" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="12" fill="#ffffff">
-    C++
+    Python
   </text>
   <rect x="175" y="165" width="315" height="14" fill="#21262d" rx="3"/>
-  <rect x="175" y="165" width="235.2784992115759" height="14" fill="#f34b7d" rx="3" opacity="0.85"/>
+  <rect x="175" y="165" width="168.28306419324701" height="14" fill="#0080FF" rx="3" opacity="0.85"/>
   <text x="505" y="176" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff">
-    241,575
+    20,015
   </text>
   <text x="620" y="176" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff" text-anchor="end">
-    24.1%
+    18.1%
   </text>
 
   <text x="40" y="202" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="12" fill="#ffffff">
-    C Header
+    TypeScript
   </text>
   <rect x="175" y="191" width="315" height="14" fill="#21262d" rx="3"/>
-  <rect x="175" y="191" width="154.15550505518968" height="14" fill="#58a6ff" rx="3" opacity="0.85"/>
+  <rect x="175" y="191" width="144.48044841852396" height="14" fill="#00CED1" rx="3" opacity="0.85"/>
   <text x="505" y="202" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff">
-    158,281
+    17,184
   </text>
   <text x="620" y="202" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff" text-anchor="end">
-    15.8%
+    15.5%
   </text>
 
   <text x="40" y="228" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="12" fill="#ffffff">
-    Python
+    JavaScript
   </text>
   <rect x="175" y="217" width="315" height="14" fill="#21262d" rx="3"/>
-  <rect x="175" y="217" width="54.059270939615985" height="14" fill="#0080FF" rx="3" opacity="0.85"/>
+  <rect x="175" y="217" width="101.33978379821167" height="14" fill="#FFD700" rx="3" opacity="0.85"/>
   <text x="505" y="228" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff">
-    55,506
+    12,053
   </text>
   <text x="620" y="228" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff" text-anchor="end">
-    5.5%
+    10.9%
   </text>
 
   <text x="40" y="254" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="12" fill="#ffffff">
-    JSON
+    CSS
   </text>
   <rect x="175" y="243" width="315" height="14" fill="#21262d" rx="3"/>
-  <rect x="175" y="243" width="40.45339022354141" height="14" fill="#b30000" rx="3" opacity="0.85"/>
+  <rect x="175" y="243" width="55.88696116375284" height="14" fill="#563d7c" rx="3" opacity="0.85"/>
   <text x="505" y="254" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff">
-    41,536
+    6,647
   </text>
   <text x="620" y="254" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff" text-anchor="end">
-    4.1%
+    6.0%
   </text>
 
   <text x="40" y="280" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="12" fill="#ffffff">
-    C
+    Kotlin
   </text>
   <rect x="175" y="269" width="315" height="14" fill="#21262d" rx="3"/>
-  <rect x="175" y="269" width="35.63143493182451" height="14" fill="#555555" rx="3" opacity="0.85"/>
+  <rect x="175" y="269" width="49.56425997597758" height="14" fill="#F18E33" rx="3" opacity="0.85"/>
   <text x="505" y="280" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff">
-    36,585
+    5,895
   </text>
   <text x="620" y="280" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff" text-anchor="end">
-    3.6%
+    5.3%
   </text>
 
   <text x="40" y="306" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="12" fill="#ffffff">
     Dart
   </text>
   <rect x="175" y="295" width="315" height="14" fill="#21262d" rx="3"/>
-  <rect x="175" y="295" width="31.786337074482887" height="14" fill="#58a6ff" rx="3" opacity="0.85"/>
+  <rect x="175" y="295" width="33.85840117442947" height="14" fill="#58a6ff" rx="3" opacity="0.85"/>
   <text x="505" y="306" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff">
-    32,637
+    4,027
   </text>
   <text x="620" y="306" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff" text-anchor="end">
-    3.2%
+    3.6%
   </text>
 
   <text x="40" y="332" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="12" fill="#ffffff">
     HTML
   </text>
   <rect x="175" y="321" width="315" height="14" fill="#21262d" rx="3"/>
-  <rect x="175" y="321" width="26.34885446619052" height="14" fill="#e34c26" rx="3" opacity="0.85"/>
+  <rect x="175" y="321" width="12.292272787935408" height="14" fill="#e34c26" rx="3" opacity="0.85"/>
   <text x="505" y="332" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff">
-    27,054
+    1,462
   </text>
   <text x="620" y="332" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff" text-anchor="end">
-    2.7%
+    1.3%
   </text>
 
   <text x="635" y="383" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="10" fill="#00FFFF" text-anchor="end">
