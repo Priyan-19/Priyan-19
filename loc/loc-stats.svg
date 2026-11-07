@@ -11,14 +11,14 @@
   <rect x="10" y="10" width="635" height="3" fill="url(#accent-gradient)" rx="1"/>
 
   <text x="40" y="52" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="28" font-weight="700" fill="#ffffff">
-    110,563
+    110,828
   </text>
   <text x="40" y="74" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="12" fill="#ffffff">
     LINES OF CODE
   </text>
 
   <text x="615" y="52" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="22" font-weight="600" fill="#ffffff" text-anchor="end">
-    1,230
+    1,239
   </text>
   <text x="615" y="70" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff" text-anchor="end">
     FILES
@@ -39,28 +39,28 @@
     37,465
   </text>
   <text x="620" y="150" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff" text-anchor="end">
-    33.9%
+    33.8%
   </text>
 
   <text x="40" y="176" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="12" fill="#ffffff">
     Python
   </text>
   <rect x="175" y="165" width="315" height="14" fill="#21262d" rx="3"/>
-  <rect x="175" y="165" width="168.28306419324701" height="14" fill="#0080FF" rx="3" opacity="0.85"/>
+  <rect x="175" y="165" width="169.67876684905914" height="14" fill="#0080FF" rx="3" opacity="0.85"/>
   <text x="505" y="176" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff">
-    20,015
+    20,181
   </text>
   <text x="620" y="176" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff" text-anchor="end">
-    18.1%
+    18.2%
   </text>
 
   <text x="40" y="202" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="12" fill="#ffffff">
     TypeScript
   </text>
   <rect x="175" y="191" width="315" height="14" fill="#21262d" rx="3"/>
-  <rect x="175" y="191" width="144.48044841852396" height="14" fill="#00CED1" rx="3" opacity="0.85"/>
+  <rect x="175" y="191" width="144.50567196049647" height="14" fill="#00CED1" rx="3" opacity="0.85"/>
   <text x="505" y="202" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff">
-    17,184
+    17,187
   </text>
   <text x="620" y="202" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff" text-anchor="end">
     15.5%
@@ -70,12 +70,12 @@
     JavaScript
   </text>
   <rect x="175" y="217" width="315" height="14" fill="#21262d" rx="3"/>
-  <rect x="175" y="217" width="101.33978379821167" height="14" fill="#FFD700" rx="3" opacity="0.85"/>
+  <rect x="175" y="217" width="100.36447350860803" height="14" fill="#FFD700" rx="3" opacity="0.85"/>
   <text x="505" y="228" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff">
-    12,053
+    11,937
   </text>
   <text x="620" y="228" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff" text-anchor="end">
-    10.9%
+    10.8%
   </text>
 
   <text x="40" y="254" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="12" fill="#ffffff">
@@ -94,9 +94,9 @@
     Kotlin
   </text>
   <rect x="175" y="269" width="315" height="14" fill="#21262d" rx="3"/>
-  <rect x="175" y="269" width="49.56425997597758" height="14" fill="#F18E33" rx="3" opacity="0.85"/>
+  <rect x="175" y="269" width="49.648338449219274" height="14" fill="#F18E33" rx="3" opacity="0.85"/>
   <text x="505" y="280" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff">
-    5,895
+    5,905
   </text>
   <text x="620" y="280" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff" text-anchor="end">
     5.3%
@@ -106,12 +106,12 @@
     Dart
   </text>
   <rect x="175" y="295" width="315" height="14" fill="#21262d" rx="3"/>
-  <rect x="175" y="295" width="33.85840117442947" height="14" fill="#58a6ff" rx="3" opacity="0.85"/>
+  <rect x="175" y="295" width="35.35499799813159" height="14" fill="#58a6ff" rx="3" opacity="0.85"/>
   <text x="505" y="306" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff">
-    4,027
+    4,205
   </text>
   <text x="620" y="306" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="11" fill="#ffffff" text-anchor="end">
-    3.6%
+    3.8%
   </text>
 
   <text x="40" y="332" font-family="'Ubuntu', 'Helvetica', 'Arial', sans-serif" font-size="12" fill="#ffffff">
